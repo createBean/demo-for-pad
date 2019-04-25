@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="this_is_sound_view">This is sound view</string>
+    <string name="this_is_display_view">This is display view</string>
+</resources>
